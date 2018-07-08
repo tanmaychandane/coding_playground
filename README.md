@@ -1,8 +1,8 @@
 # java_lab
 Just another repository containing basic java programs.
 <br>
-Base System Used: Arch Linux
+Base Systems Used: Arch Linux, and Ubuntu 18.04
 <br>
-Package: jdk9-openjdk
+JDK Package: openjdk-11-jdk
 <br>
-Reference Book: Java for Dummies 6th edition, and college notes.
+Reference Material: Java for Dummies 6th edition, and college notes.
