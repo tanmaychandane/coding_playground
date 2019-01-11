@@ -23,3 +23,4 @@ add(l2,BorderLayout.EAST);
 //add(t2);
 } 
 }
+// save as grid_demo.java
