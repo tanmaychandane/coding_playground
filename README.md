@@ -1,4 +1,9 @@
 # java_lab<br>
-This is a temporary repository. All programs are distributed under MIT license. If you voilate the license, I will most probably do nothing. Because I don't give a fuck.
+This is a temporary repository. All programs are distributed under MIT license. If you voilate the license, I will most probably do nothing.
 <br>
-JDK Verison: openjdk8, Base OS used: Arch Linux, References: Java for Dummies 6th edition and university notes.
+JDK Verison: JDK8/ JDK 17
+<br>
+Set path for java: "c:\Program Files\Java\jdk-17\bin"
+<br>
+Tanmay Chandane
+<br>
