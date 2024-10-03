@@ -7,3 +7,5 @@ Set path for java: "c:\Program Files\Java\jdk-17\bin"
 <br>
 Tanmay Chandane
 <br>
+<h1>Idea</h1>
+<p>Make this central Repository for storing all learning files. To Do: merge all programming repos into this. Move. Not download & re-upload. To learn to preserve file hsitory.</p>
